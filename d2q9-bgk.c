@@ -5,7 +5,7 @@
 ** 'bgk' refers to the Bhatnagar-Gross-Krook collision step.
 **
 ** The 'speeds' in each cell are numbered as follows:
-**
+** 
 ** 6 2 5
 **  \|/
 ** 3-0-1
